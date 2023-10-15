@@ -1,0 +1,12 @@
+# Sample config.yaml
+# database:
+#   host: localhost
+#   port: 5432
+#   username: myuser
+#   password: mypassword
+#   database_name: mydatabase
+
+file_paths:
+  raw_data_path: ../data/raw/english-premier-league/data
+  intermediate_data_path: ../data/intermediate/
+  processed_data_path: ../data/processed/

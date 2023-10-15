@@ -1,0 +1,11 @@
+# Ignore top-level files and directories
+./
+../
+.git/
+.pl_etl_env/
+.vscode/
+portfolio.html
+
+# Ignore files with specific extensions
+*.pyc
+__pycache__
